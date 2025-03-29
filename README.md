@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning c#
+🙋‍♂️ I'm happy to make with firends
+🇹🇼 I'm from Taiwan.
